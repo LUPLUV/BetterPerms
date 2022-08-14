@@ -1,0 +1,17 @@
+dev\lupluv\bp\spigot\utils\FileManager.class
+dev\lupluv\bp\spigot\licence\LicenceManager.class
+dev\lupluv\bp\spigot\utils\Item.class
+dev\lupluv\bp\bungee\BungeeMain.class
+dev\lupluv\bp\spigot\utils\Lore.class
+dev\lupluv\bp\spigot\utils\Util.class
+dev\lupluv\bp\spigot\commands\CpguiCmd.class
+dev\lupluv\bp\bungee\licence\LicenceManager.class
+dev\lupluv\bp\bungee\commands\HypepermsCmd.class
+dev\lupluv\bp\bungee\utils\FileManager.class
+dev\lupluv\bp\spigot\SpigotMain.class
+dev\lupluv\bp\bungee\utils\PermsUtil.class
+dev\lupluv\bp\spigot\events\ClickEvent.class
+dev\lupluv\bp\bungee\events\TabcompleteEvent.class
+dev\lupluv\bp\spigot\utils\Enchantment.class
+dev\lupluv\bp\spigot\utils\InventoryManager.class
+dev\lupluv\bp\bungee\utils\Strings.class
